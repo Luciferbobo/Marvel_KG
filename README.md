@@ -1,6 +1,15 @@
 # 漫威知识图谱 Marvel knowledge graph
 
 
+<div align=center>
+  
+I❤SEU
+  
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%871.png" width="805" height="480"> 
+  
+</div>
+
+
 ## 知识图谱概况
 
 - 数据源：中文维基百科、百度百科、漫威人物关系数据库
