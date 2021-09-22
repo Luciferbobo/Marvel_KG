@@ -3,9 +3,7 @@
 
 <div align=center>
   
-I❤SEU
-  
-<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%871.png" width="805" height="480"> 
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/M1.png" width="805" height="480"> 
   
 </div>
 
