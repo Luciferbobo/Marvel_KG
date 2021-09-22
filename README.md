@@ -69,23 +69,31 @@
 ## 四.部分可视化展示
 
 <div align=center>
+  
 词云
-<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%872.gif" width="605" height="330"> 
+  
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%872.gif" > 
 </div>
 
 <div align=center>
+  
 全部关系图
-<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%873.png" width="605" height="330"> 
+  
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%873.png" width="330" height="330"> 
 </div>
 
 
 <div align=center>
+  
 单人物关系网
-<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%875.png" width="605" height="330"> 
+  
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%875.png" width="330" height="330"> 
 </div>
 
 <div align=center>
+  
 知识问答
+  
 <img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/%E5%9B%BE%E7%89%874.png" width="605" height="330"> 
 </div>
 
