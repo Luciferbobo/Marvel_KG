@@ -9,7 +9,7 @@
 5. 修改“KG_Marvel\KGQA\ltp.py”中的模型路径（需用绝对路径）
 6. 运行“KG_Marvel\neo_db\creat_graph.py”，将关系传入数据库
 7. 运行  "KG_Marvel\app.py"
-8. 浏览器输入“http://localhost:5000/”，进入知识图谱。
+8. 浏览器输入“http://localhost:5000/”  进入知识图谱。
 
 ## 二.文件描述
 
@@ -46,5 +46,5 @@
 - WMSeg-sota分词包含WMSeg分词算法的实现
 - word2vec.ipynb计算词向量，找到最合适的推荐实体
 
-
+## 四.部分可视化展示
 
