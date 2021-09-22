@@ -1,0 +1,1 @@
+预训练权重为WMSeg.ZEN.PKU.v1.1.pt
