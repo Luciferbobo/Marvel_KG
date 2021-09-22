@@ -3,7 +3,7 @@
 
 <div align=center>
   
-<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/M1.png" width="805" height="480"> 
+<img src="https://github.com/Luciferbobo/Marvel_KG/blob/main/Fig/M1.jpg" width="805" height="480"> 
   
 </div>
 
